@@ -1,0 +1,8 @@
+pgmpy
+pandas
+numpy
+scikit-learn
+networkx
+matplotlib
+pyvis
+jupyter
